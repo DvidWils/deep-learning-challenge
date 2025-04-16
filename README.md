@@ -21,6 +21,10 @@ The goal of this challenge was to help the nonprofit Alphabet Soup improve its f
   - Two hidden layers: 80 and 30 neurons (ReLU)
   - Output layer: 1 unit (Sigmoid)
 - Epochs: 150
+
+  ![image](https://github.com/user-attachments/assets/ff45b656-1b2e-4130-9e9f-e85655cf693d)
+  ![image](https://github.com/user-attachments/assets/fec605a7-bb2e-42b7-9508-f594cc280062)
+
 - **Performance:** Accuracy reached approximately 72.42%
 
 ---
@@ -31,10 +35,14 @@ The goal of this challenge was to help the nonprofit Alphabet Soup improve its f
   - Three hidden layers: 256, 128, and 64 neurons (ReLU)
   - Output layer: 1 unit (Sigmoid)
 - Epochs: 200
+
 - **Optimizations Applied:**
   - Increased number of layers (depth) and neurons (complexity)
   - Trained for more epochs
   - Adjusted threshold for grouping rare values in categorical columns
+
+  ![image](https://github.com/user-attachments/assets/ac82bed0-a6ce-4716-89f1-a90c48d14112)
+  ![image](https://github.com/user-attachments/assets/68098ec2-77fb-4c3b-a1a7-db2defc6e86e)
 
 - **Performance:** Accuracy improved slightly to around 72.86%
 
